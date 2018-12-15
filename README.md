@@ -1,4 +1,4 @@
-# FishCuT1.31a
+# FishCuT1.2
 A semi-automatic MATLAB program that segments 3D images of zebrafish
 1.	Acquire microCT images of zebrafish:
 1.1.	MicroCT scanning was performed using a vivaCT40 (Scanco Medical, Switzerland). Medium-resolution scans (21 µm voxel resolution) were acquired using the following settings: 55kVp, 145μA, 1024 samples, 500proj/180°, 200 ms integration time. 
